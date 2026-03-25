@@ -6,6 +6,12 @@ public class Task3 {
     public static void main(String[] args) {
         List<Integer> numbers = List.of(1,2,3,4,5);
 
+            /*
+            Cəmini tap (sum)
+            Hasilini tap (product)
+            String kimi birləşdir: "12345"
+             */
+
         int sum = numbers.stream().reduce(0,Integer ::sum);
 
         int product = numbers.stream()
