@@ -1,4 +1,4 @@
-package list;
+package day1;
 
 import java.util.ArrayList;
 import java.util.LinkedHashSet;
