@@ -39,7 +39,7 @@ public class ApproachTypes {
         );
 
        return persons.stream()
-                .filter(person -> Gender.FEMALE.equals(person.getGender()))
+                .filter(person -> Gender.FEMALE .equals(person.getGender()))
                 .collect(Collectors.toList());
     }
 }
