@@ -1,4 +1,4 @@
-package functionalPrograming;
+package functionalPrograming.approachTypes;
 
 public class Person {
 

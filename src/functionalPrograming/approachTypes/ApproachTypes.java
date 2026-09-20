@@ -1,4 +1,4 @@
-package functionalPrograming;
+package functionalPrograming.approachTypes;
 
 import java.util.ArrayList;
 import java.util.List;
